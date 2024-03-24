@@ -1,0 +1,23 @@
+{
+  "name": "book-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "live-s": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlinaSka93/book-library.git"
+  },
+  "author": "Alina Skalyga  ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlinaSka93/book-library/issues"
+  },
+  "homepage": "https://github.com/AlinaSka93/book-library#readme",
+  "dependencies": {
+    "rollup": "^4.13.0"
+  }
+}
